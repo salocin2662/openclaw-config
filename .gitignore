@@ -1,0 +1,24 @@
+# Do not commit
+OpenClaw.bat
+MEMORY.md
+HEARTBEAT.md
+memory/
+.openclaw/
+node_modules/
+Skills/kicad/
+Projects/
+pcb_project/
+cyberdeck/
+dx-lr30-docs/
+an/
+certs/
+flash_graphene_project.txt
+package*.json
+*.kicad_sym
+*.lock
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
